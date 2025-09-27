@@ -1,0 +1,177 @@
+recv: 0
+sent: 0
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vesrecv: 1
+sent: 1
+tibulum eros dui, accumsan vel dui ac, fringilla pellentesqurecv: 2
+sent: 2
+e velit. Suspendisse cursus nunc diam, ac congue lectus tincrecv: 3
+sent: 3
+idunt vel. Aenean condimentum pretium lectus, eget tempor marecv: 4
+sent: 4
+ssa viverra at. Donec consequat, massa vitae elementum elemerecv: 5
+sent: 5
+ntum, sem dolor porta lacus, vitae sollicitudin eros augue irecv: 6
+sent: 6
+n mi. Integer facilisis arcu eu felis blandit laoreet. Etiamrecv: 7
+sent: 7
+ venenatis sem ac urna luctus porttitor. Cras pellentesque qrecv: 8
+sent: 8
+uam sapien, non rutrum augue dapibus id. In ac orci nulla. Nrecv: 9
+sent: 9
+ullam molestie hendrerit dui, nec consequat lacus aliquet a.recv: 10
+sent: 10
+
+Donec semper interdum felis suscipit aliquet. Nam egestas srecv: 11
+sent: 11
+it amet elit sed porttitor. Cras ante enim, ultricies eu bibrecv: 12
+sent: 12
+endum in, lacinia vitae diam. Lorem ipsum dolor sit amet, corecv: 13
+sent: 13
+nsectetur adipiscing elit. Donec accumsan ipsum quis nisl terecv: 14
+sent: 14
+mpus, a rhoncus ipsum facilisis. Vestibulum eleifend nisl nirecv: 15
+sent: 15
+bh, non vehicula lectus lacinia sit amet. Curabitur efficiturecv: 16
+sent: 16
+r ante sapien, non vehicula dolor dignissim in. Lorem ipsum recv: 17
+sent: 17
+dolor sit amet, consectetur adipiscing elit. Fusce euismod srecv: 18
+sent: 18
+apien ut urna molestie feugiat. Nunc nunc felis, eleifend idrecv: 19
+sent: 19
+ mattis eu, facilisis ac nibh. Duis ullamcorper tortor ut ferecv: 20
+sent: 20
+rmentum congue. Nunc feugiat lobortis tempor. Donec a neque recv: 21
+sent: 21
+condimentum, rutrum nisi ut, suscipit massa. Praesent a massrecv: 22
+sent: 22
+a vitae ex tempus viverra.
+Suspendisse elementum eu ex a pulrecv: 23
+sent: 23
+vinar. Suspendisse fermentum nisl ex, id sagittis mauris henrecv: 24
+sent: 24
+drerit vitae. Proin sed risus nec nisi ornare molestie. Ut erecv: 25
+sent: 25
+t tincidunt nulla. Sed scelerisque mauris nisi, nec semper frecv: 26
+sent: 26
+elis viverra nec. Donec quam justo, vestibulum a porttitor crecv: 27
+sent: 27
+onsectetur, egestas ac magna. Class aptent taciti sociosqu arecv: 28
+sent: 28
+d litora torquent per conubia nostra, per inceptos himenaeosrecv: 29
+sent: 29
+. Ut vel mi sodales, laoreet odio placerat, aliquam ante. Alrecv: 30
+sent: 30
+iquam rhoncus magna et dictum faucibus. Sed feugiat purus inrecv: 31
+sent: 31
+ ante lacinia eleifend. Mauris nec porttitor nibh, sit amet recv: 32
+sent: 32
+vehicula ex.
+Interdum et malesuada fames ac ante ipsum primirecv: 33
+sent: 33
+s in faucibus. Proin vitae odio euismod, mollis massa et, morecv: 34
+sent: 34
+llis sem. Vivamus pharetra lacinia dolor, sit amet molestie recv: 35
+sent: 35
+felis efficitur sit amet. Maecenas magna erat, tempor sit amrecv: 36
+sent: 36
+et metus finibus, varius gravida nulla. Vivamus at ultriciesrecv: 37
+sent: 37
+ nisi. Vestibulum nec commodo orci. Vivamus quis lectus facirecv: 38
+sent: 38
+lisis, fermentum nibh id, tristique lectus. Nulla facilisi. recv: 39
+sent: 39
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Currecv: 40
+sent: 40
+abitur ac leo suscipit, ullamcorper justo eget, auctor arcu.recv: 41
+sent: 41
+ Ut commodo nulla vel dictum consequat. Duis aliquet nunc atrecv: 42
+sent: 42
+ lacus sodales finibus. Pellentesque habitant morbi tristiqurecv: 43
+sent: 43
+e senectus et netus et malesuada fames ac turpis egestas. Perecv: 44
+sent: 44
+llentesque tincidunt auctor odio, tristique egestas massa lorecv: 45
+sent: 45
+bortis eu. Nunc pretium tincidunt ullamcorper.
+Nunc eget alirecv: 46
+sent: 46
+quam magna. Phasellus et turpis massa. Sed sed tortor dignisrecv: 47
+sent: 47
+sim libero luctus sollicitudin. Sed efficitur eleifend semperecv: 48
+sent: 48
+r. Aenean vel diam vel lacus mollis dignissim. Nullam cursusrecv: 49
+sent: 49
+ lorem lectus, a sollicitudin eros tempor ut. Aenean eu sem recv: 50
+sent: 50
+quis nunc viverra varius. Vivamus vitae varius tortor. Nullarecv: 51
+sent: 51
+ feugiat sapien bibendum, condimentum ipsum id, rutrum ex. Arecv: 52
+sent: 52
+liquam fermentum mi sapien, ac laoreet est fermentum nec. Prrecv: 53
+sent: 53
+aesent sed congue mauris. Duis eleifend ante risus, sed trisrecv: 54
+sent: 54
+tique justo viverra nec. Donec molestie orci at lectus sollirecv: 55
+sent: 55
+citudin gravida. Sed ut arcu nec dui congue blandit ut et jurecv: 56
+sent: 56
+sto.
+Baka mitai kodomo na no ne
+Yume o otte kizutsuite
+Uso grecv: 57
+sent: 57
+a heta na kuse ni waraenai egao miseta
+I love you mo roku nirecv: 58
+sent: 58
+ iwanai
+Kuchi beta de honma ni bukiyou
+Na no ni na no ni dourecv: 59
+sent: 59
+shite
+Sayonara wa ieta no
+Dame da ne dame yo dame na no yo
+Arecv: 60
+sent: 60
+nta ga suki de suki sugite
+Dore dake tsuyoi osake demo
+Yugamrecv: 61
+sent: 61
+anai omoide ga baka mitai
+Baka mitai hontou baka ne
+Anta shirecv: 62
+sent: 62
+njiru bakari de
+Tsuyoi onna no furi setsunasa no yokaze abirrecv: 63
+sent: 63
+u
+Hitori ni natte san nen ga sugi
+Machinami sae mo kawarimasrecv: 64
+sent: 64
+hita
+Nanoni nanoni doushite
+Miren dake okizari
+Honma ni rokurecv: 65
+sent: 65
+ na otoko ya nai
+Soroi no yubiwa hazushimasu
+Zamaa miro seisrecv: 66
+sent: 66
+ei suru wa
+Ii kagen mattete mo baka mitai
+Dame da ne dame yorecv: 67
+sent: 67
+ dame na no yo
+Anta ga suki de suki sugite
+Dore dake tsuyoi recv: 68
+sent: 68
+osake demo
+Yugamanai omoide ga baka mitai
+Honma ni roku na orecv: 69
+sent: 69
+toko ya nai
+Soroi no yubiwa hazushimasu
+Zamaa miro seisei surecv: 70
+sent: 70
+ru wa
+Nanna no yo kono namida baka mitai
